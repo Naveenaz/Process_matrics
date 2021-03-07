@@ -38,5 +38,8 @@ Enter overall duration of the monitoring in seconds
 
 Please see sample output in output.csv
 
+<img width="1087" alt="Screen Shot 2021-03-07 at 19 52 56" src="https://user-images.githubusercontent.com/5116820/110252746-c3a66180-7f7e-11eb-8003-5ef5b6ca6c44.png">
+
+
 
 
